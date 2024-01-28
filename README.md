@@ -1,6 +1,9 @@
 # Study-Python
 I will study coding in Python and this repo will contain my learning docs.
 
+## Harvard peoblem sets
+https://cs50.harvard.edu/python/2022/psets/
+
 ## Topics to learn
 
 - Control structures (if statements, loops).
